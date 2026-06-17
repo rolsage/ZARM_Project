@@ -1,0 +1,4 @@
+2026-06-17 16:42:24 - [INFO] - 🔴 [REMEDIATION] Tentative de neutralisation du processus suspect : python3 (PID: 23446)
+2026-06-17 16:42:24 - [INFO] - 🔒 [SUCCÈS] Le processus python3 (PID: 23446) a été arrêté avec succès.
+2026-06-17 17:05:21 - [INFO] - 🔴 [REMEDIATION] Tentative de neutralisation du processus suspect : python3 (PID: 36714)
+2026-06-17 17:05:21 - [INFO] - 🔒 [SUCCÈS] Le processus python3 (PID: 36714) a été arrêté avec succès.
